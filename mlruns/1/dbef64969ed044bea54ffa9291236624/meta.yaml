@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/dbef64969ed044bea54ffa9291236624/artifacts
+end_time: 1656400380474
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: dbef64969ed044bea54ffa9291236624
+run_uuid: dbef64969ed044bea54ffa9291236624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656400375845
+status: 3
+tags: []
+user_id: swaraj.basak
